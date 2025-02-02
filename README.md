@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Magnus
+- 👀 I’m interested in observability and automation
+- 🌱 I’m currently learning rust
+- 📫 How to reach me bluesky @ dizzi90 (dot) bsky (dot) social
