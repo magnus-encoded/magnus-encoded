@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Magnus
 - 👀 I’m interested in observability and automation
-- 🌱 I’m currently learning WoW addon development in lua
+- 🌱 I’m currently learning WoW addon development in lua and tinkering with llms
 - 📫 How to reach me bluesky @ dizzi90 (dot) bsky (dot) social
